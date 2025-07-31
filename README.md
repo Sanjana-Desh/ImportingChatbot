@@ -9,7 +9,4 @@ This project demonstrates how to interact with Google's Gemini model from the te
 
 ## 📄 Full Script
 
-Below is the full Python script for the chatbot. Copy and save it as `chatbot.py`:
-
-```python
-import google.generativeai as genai
+The code is given in `main.py` and run it like any other python file i.e python main.py
